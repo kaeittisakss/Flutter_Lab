@@ -1,0 +1,102 @@
+[
+    {
+        "title": "What is the primary goal of supervised learning?",
+        "choices": [
+            {"id": 1, "title": "Feature extraction"},
+            {"id": 2, "title": "Pattern recognition"},
+            {"id": 3, "title": "Minimizing loss function"},
+            {"id": 4, "title": "Unsupervised clustering"}
+        ],
+        "answerId": 3
+    },
+    {
+        "title": "Which algorithm is commonly used for image recognition tasks?",
+        "choices": [
+            {"id": 1, "title": "K-Means"},
+            {"id": 2, "title": "Random Forest"},
+            {"id": 3, "title": "Support Vector Machine"},
+            {"id": 4, "title": "Convolutional Neural Network"}
+        ],
+        "answerId": 4
+    },
+    {
+        "title": "What does the term 'overfitting' refer to in machine learning?",
+        "choices": [
+            {"id": 1, "title": "Model fitting the data perfectly"},
+            {"id": 2, "title": "Insufficient training data"},
+            {"id": 3, "title": "Model performing poorly on training data"},
+            {"id": 4, "title": "Model failing to generalize to new data"}
+        ],
+        "answerId": 1
+    },
+    {
+        "title": "Which activation function is commonly used in neural networks for binary classification?",
+        "choices": [
+            {"id": 1, "title": "Sigmoid"},
+            {"id": 2, "title": "ReLU"},
+            {"id": 3, "title": "Tanh"},
+            {"id": 4, "title": "Softmax"}
+        ],
+        "answerId": 1
+    },
+    {
+        "title": "In reinforcement learning, what is the role of an 'agent'?",
+        "choices": [
+            {"id": 1, "title": "Generates training data"},
+            {"id": 2, "title": "Takes actions in an environment"},
+            {"id": 3, "title": "Calculates loss function"},
+            {"id": 4, "title": "Preprocesses input data"}
+        ],
+        "answerId": 2
+    },
+    {
+        "title": "What is the purpose of a confusion matrix in classification tasks?",
+        "choices": [
+            {"id": 1, "title": "Evaluate model accuracy"},
+            {"id": 2, "title": "Visualize feature importance"},
+            {"id": 3, "title": "Assess model interpretability"},
+            {"id": 4, "title": "Examine model performance metrics"}
+        ],
+        "answerId": 4
+    },
+    {
+        "title": "Which optimization algorithm is often used to update neural network weights during training?",
+        "choices": [
+            {"id": 1, "title": "Gradient Descent"},
+            {"id": 2, "title": "K-Means"},
+            {"id": 3, "title": "Decision Tree"},
+            {"id": 4, "title": "Principal Component Analysis"}
+        ],
+        "answerId": 1
+    },
+    {
+        "title": "What is the purpose of dropout in neural networks?",
+        "choices": [
+            {"id": 1, "title": "Reduce model complexity"},
+            {"id": 2, "title": "Improve training speed"},
+            {"id": 3, "title": "Enhance model generalization"},
+            {"id": 4, "title": "Avoid overfitting"}
+        ],
+        "answerId": 4
+    },
+    {
+        "title": "In natural language processing, what does POS tagging stand for?",
+        "choices": [
+            {"id": 1, "title": "Position of Speech tagging"},
+            {"id": 2, "title": "Part of Speech tagging"},
+            {"id": 3, "title": "Pattern of Speech tagging"},
+            {"id": 4, "title": "Parsing of Speech tagging"}
+        ],
+        "answerId": 2
+    },
+    {
+        "title": "What is the primary purpose of a convolutional layer in a convolutional neural network (CNN)?",
+        "choices": [
+            {"id": 1, "title": "Feature extraction"},
+            {"id": 2, "title": "Gradient computation"},
+            {"id": 3, "title": "Dimensionality reduction"},
+            {"id": 4, "title": "Loss function optimization"}
+        ],
+        "answerId": 1
+    }
+]
